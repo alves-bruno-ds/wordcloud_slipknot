@@ -5,7 +5,7 @@
 </p>
 
 
-## Projeto - Análise de Dados  - Hospedagens do Airbnb em Buenos Aires
+## Projeto - Nuvem de palavras (Wordcloud)  - Slipknot
 
 <p align="center">
 <p width="5%">
