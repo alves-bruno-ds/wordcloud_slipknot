@@ -8,11 +8,11 @@
 ## Projeto - Nuvem de palavras (Wordcloud)  - Slipknot
 
 <p align="center">
-<p width="5%">
+<p width="10%">
   <img src="https://raw.githubusercontent.com/alves-bruno-ds/data-science-BR/main/Slipknot%2001.jpg" >
 </p>
 
-Esse estudo teve por objetivo evidenciar as palavras mais utilizadas nas letras da obra do Slipknot, sem dúvidas a minha banda favorita. Para tanto, foi utilizado o site [MLDb - Music Lyric Database] (http://www.mldb.org), que disponibiliza um acervo das músicas de diversos artistas. 
+Esse estudo teve por objetivo evidenciar as palavras mais utilizadas nas letras da obra do Slipknot, sem dúvidas a minha banda favorita. Para tanto, foi utilizado o site [MLDb - Music Lyric Database](http://www.mldb.org), que disponibiliza um acervo das músicas de diversos artistas. 
 
 
 [LINK DO PROJETO](https://github.com/alves-bruno-ds/Analise_de_dados_Airbnb_Buenos_Aires/blob/main/Rev.01%20-%20Analisando_os_Dados_do_Airbnb_Buenos_Aires.ipynb)
