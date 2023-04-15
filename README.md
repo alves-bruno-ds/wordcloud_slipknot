@@ -17,7 +17,7 @@ Esse estudo teve por objetivo evidenciar as palavras mais utilizadas nas letras 
 Para tanto, foi utilizado o site [MLDb - Music Lyric Database](http://www.mldb.org), que disponibiliza um acervo das músicas de diversos artistas. 
 
 
-[LINK DO PROJETO](https://github.com/alves-bruno-ds/Analise_de_dados_Airbnb_Buenos_Aires/blob/main/Rev.01%20-%20Analisando_os_Dados_do_Airbnb_Buenos_Aires.ipynb)
+[LINK DO PROJETO](https://github.com/alves-bruno-ds/wordcloud_slipknot/blob/main/Nuvem_de_palavras_(Wordcloud)_Slipknot.ipynb)
 
 
 Qualquer dúvida, fico a dsposição em meus canais de contato!
